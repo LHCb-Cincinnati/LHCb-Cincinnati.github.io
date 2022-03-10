@@ -1,4 +1,4 @@
-# Dr.Conor Henderson LHCb Group
+# Dr. Conor Henderson LHCb Group
 
 This is the repository for the source code of the group website 
 
